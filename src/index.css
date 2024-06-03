@@ -1,0 +1,8 @@
+@font-face {
+	font-family: "clash";
+	src: url("./assets/ClashDisplayMedium.otf") format("opentype");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
