@@ -7,7 +7,7 @@ const Testimonial = () => {
 					what our users <br /> say about us?
 				</h1>
 			</div>
-			<div className="flex items-center justify-between">
+			<div className="lg:flex items-center justify-between mt-20">
 				<div className="w-full lg:w-1/2 relative flex">
 					<img src="https://i.ibb.co/6tKxgMG/scat-Color.png" alt="" />
 					<img
@@ -16,18 +16,18 @@ const Testimonial = () => {
 						alt=""
 					/>
 				</div>
-				<div className="w-full lg:w-1/2 pl-8">
-					<h1 className="text-3xl font-extrabold">
+				<div className="w-full lg:w-1/2">
+					<h1 className="text-2xl font-extrabold">
 						The Best Financial Accounting App Ever!
 					</h1>
-					<p className="text-gray-500 my-3">
+					<p className="text-gray-500 my-3 text-justify">
 						“Arcu at dictum sapien, mollis. Vulputate sit id accumsan,
 						ultricies. In ultrices malesuada elit mauris etiam odio. Duis
 						tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus,
 						diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor
 						neque lorem sapien, suspendisse aliquam.”
 					</p>
-					<div className="flex items-center gap-x-1">
+					<div className="flex flex-wrap items-center gap-x-1">
 						<img
 							className="h-16 w-16"
 							src="https://i.ibb.co/FbXD29P/p1.png"
