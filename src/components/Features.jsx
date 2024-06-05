@@ -3,7 +3,7 @@ import phone from "../assets/straightPhone.png";
 const Features = () => {
 	return (
 		<div className="flex flex-col lg:flex-row items-center justify-between mt-[600px] lg:mt-48">
-			<div className="w-full lg:w-1/2 relative flex justify-center mb-10 lg:mb-0">
+			<div className="w-full lg:w-1/2 relative flex justify-center lg:mb-0">
 				<div className="flex h-[400px] lg:h-[600px]">
 					<img
 						src="https://i.ibb.co/72gKbHp/ring.png"

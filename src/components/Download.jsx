@@ -3,7 +3,7 @@ const Download = () => {
 		<div className="mb-48 md:mb-[600px]">
 			<div className="relative">
 				<img
-					className="absolute -top-40 -left-64 md:-top-20 md:-left-20"
+					className="hidden lg:block absolute md:-top-32 md:-left-60"
 					src="https://i.ibb.co/6tKxgMG/scat-Color.png"
 					alt=""
 				/>

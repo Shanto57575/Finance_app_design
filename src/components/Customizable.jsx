@@ -2,7 +2,7 @@ const Customizable = () => {
 	return (
 		<div className="lg:flex items-center justify-between md:flex-row md:items-center md:justify-start">
 			<div className="w-full md:w-1/2 relative flex">
-				<div className="flex h-screen">
+				<div className="flex">
 					<img
 						src="https://i.ibb.co/72gKbHp/ring.png"
 						alt=""
